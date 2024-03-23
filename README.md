@@ -19,7 +19,7 @@ Capitalizing on the abundantly obtainable historic Bitcoin price data ranging fr
 * Acquire and wrangle the Bitcoin price dataset encompassing open, close, high, and low price indices.
 * Visualize the dataset employing state-of-the-art plotting mechanisms to discern evident trends, anomalous occurrences, and recurring motifs.
 * Segregate the dataset chronologically, reserving a portion exclusively for testing our eventual prophetic marvel.
-* Process the raw datapoints with bespoke normalization procedures, preparing them for the awaiting GRU feast.
+* Process the raw data points with bespoke normalization procedures, preparing them for the awaiting GRU feast.
 * Design and materialize the GRU topology, configuring hyperparameters attuned to our exclusive case study.
 * Train the fabricated GRU prototype with the processed datapoints, diligently observing convergence and generalizability.
 * Compare the GRU champion against benchmark alternatives, establishing supremacy in terms of predictive finesse.
